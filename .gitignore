@@ -1,0 +1,8 @@
+# Secrets: never commit these
+.env
+.streamlit/secrets.toml
+
+__pycache__/
+.lky-chatbot/
+lky-chatbot/
+.DS_Store

@@ -1,0 +1,5 @@
+streamlit>=1.38
+openai>=1.50
+numpy>=1.26
+python-dotenv>=1.0
+pdfplumber>=0.11
